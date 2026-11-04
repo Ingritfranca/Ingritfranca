@@ -1,5 +1,3 @@
-# 🌙 Olá! Eu sou a Ingrit França
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:10051f,50:492078,100:b18cff&height=210&section=header&text=Ingrit%20Fran%C3%A7a&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Desenvolvedora%20em%20forma%C3%A7%C3%A3o%20%7C%20Sistemas%20de%20Informa%C3%A7%C3%A3o&descAlignY=65&descSize=17"/>
